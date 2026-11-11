@@ -1,0 +1,16 @@
+# Python virtual environment and cache
+.venv/
+__pycache__/
+*.pyc
+
+# Failure screenshots made by portal.py
+screenshots/
+
+# Temporary files made by app.py and portal.py
+in.json
+out.json
+invoices_*/
+
+# Operating system files
+.DS_Store
+Thumbs.db
